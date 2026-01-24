@@ -1,6 +1,6 @@
 # Image Slider 🚀
 
-- A responsive and animated image slider built using HTML, CSS, and vanilla JavaScript.
+A responsive and animated image slider built using HTML, CSS, and vanilla JavaScript.
 
 ## 🔥 Features
 
