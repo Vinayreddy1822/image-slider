@@ -50,6 +50,19 @@ header {
 
 header .logo {
     padding-top: 40px;
+    color: #DC422A;
+}
+.logo h1 {
+    font-family: "Rozha One", serif;
+    font-weight: 700;
+}
+
+.logo h1 span {
+    color: #2ac4dc;
+    position: absolute;
+    margin-top: 18px;
+    font-size: 26px;
+    font-weight: 600;
 }
 
 header nav a {
@@ -57,6 +70,10 @@ header nav a {
     text-decoration: none;
     color: #555555;
     font-weight: 500;
+}
+nav a:hover {
+    color: #DC422A;
+    border-bottom: 2px solid #DC422A;
 }
 
 /* sliders content  and its animation*/
@@ -540,4 +557,5 @@ header nav a {
         margin-top: -15px;
         width: 20%;
     }
+
 }
